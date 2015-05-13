@@ -1,0 +1,11 @@
+Github Notes
+- Stage - files are ready to commit
+- Commit - Versioning
+- Push - send to server
+- Pull - Pull from server
+- Branch - A "Copy" of the Database, separate branches
+- Merge - Combine branches back together
+
+
+
+sourceTree is an interface between Git, and your local PC.
